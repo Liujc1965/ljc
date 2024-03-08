@@ -1,0 +1,16 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/ImagePage",
+    "pages/ItemPage",
+    "pages/modulePage",
+    "pages/registerPage",
+    "pages/logininPage",
+    "pages/hello",
+    "pages/getPage",
+    "pages/wechat",
+    "pages/tongxunlu",
+    "pages/explore",
+    "pages/MyPage"
+  ]
+}
